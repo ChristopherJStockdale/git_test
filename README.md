@@ -1,1 +1,1 @@
-This is Christopher's first git project!
+This is Christopher(cj)'s first git project!
